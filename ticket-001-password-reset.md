@@ -14,3 +14,13 @@ Jordan Brown reports being unable to sign into the computer because they forgot 
 ## Resolution Notes
 
 Verified the user was unable to authenticate with the previous password. Reset the local account password through Computer Management using the administrator account, then confirmed the user could successfully sign in with the new password.
+## Screenshots
+
+### Failed Login
+![Failed login attempt](screenshots/03-ticket-001-failed-login.png)
+
+### Password Reset
+![Password reset completed in Computer Management](screenshots/04-ticket-001-password-reset.png)
+
+### Successful Login
+![Successful login after password reset](screenshots/05-ticket-001-successful-login.png)
